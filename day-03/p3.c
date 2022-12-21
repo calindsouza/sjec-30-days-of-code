@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    int n,i,sum=0;
+    int n,i, sum=0;
     float avg;
-    printf("enter number of inputs\n ");
+    printf("enter  number of inputs\n ");
     scanf(" %d",&n );
     int a[n];
     printf("enter n numbers");
